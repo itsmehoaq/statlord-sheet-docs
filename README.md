@@ -1,3 +1,7 @@
+---
+visibility: hidden
+order: -99
+---
 # stat lord's tournament spreadsheet template
 
 This is the document repo for the spreadsheet template. 

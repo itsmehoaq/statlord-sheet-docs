@@ -1,6 +1,5 @@
 ---
 visibility: hidden
-order: -99
 ---
 # stat lord's tournament spreadsheet template
 
